@@ -12,5 +12,6 @@ public class Facultad_administracion_de_empresas {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
+        System.out.println("birnvenido a la facultad de administracion de empresas");
     }
 }
